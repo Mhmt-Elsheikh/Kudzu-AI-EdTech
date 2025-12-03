@@ -3,6 +3,8 @@
 
 ![Project Type](https://img.shields.io/badge/Graduation%20Project-Excellent%20Grade-0D47A1) ![AI Model](https://img.shields.io/badge/GenAI-LLaMA%203-blueviolet) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+<img width="792" height="555" alt="Screenshot 2025-12-03 033813" src="https://github.com/user-attachments/assets/c68551e6-f6b0-487a-9107-694713e4d4ce" />
+
 ## 📌 Project Overview
 **Kudzu** is a next-generation EdTech platform developed as my **Bachelor's Graduation Project** at the Faculty of Engineering, Tanta University.
 
